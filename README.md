@@ -10,4 +10,4 @@ you can quit at any time you want. you will use numbers to mention the column of
   B B B           B B B 
   C C C           C C C 
 
-you will unlimited number of tries  to complete this task. 
+you will have unlimited number of tries  to complete this task. 
